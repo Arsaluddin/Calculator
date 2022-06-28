@@ -1,1 +1,1 @@
-# Calculator this is a calculator just two numbers but i use node.js for it😁
+# Calculator this is a calculator just add two numbers but i use node.js for it😁
